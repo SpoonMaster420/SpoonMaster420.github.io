@@ -1,0 +1,25 @@
+body {
+  background-color: #7d7d7d;
+}
+
+h2 {
+  padding: 25px;
+  color: black;
+  text-shadow: 2px 2px 5px #0beab2;
+  
+}
+
+
+h1 {
+  text-align: center;
+  color: #cf1c3a;
+  font-family: "Comic Sans MS";
+  text-shadow: 2px 3px 5px #636363;
+}
+p4 {
+  font-size: 20px;
+}
+p2 {
+  font-size: 25px;
+  color: white;
+}
